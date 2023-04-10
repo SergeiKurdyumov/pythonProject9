@@ -27,6 +27,20 @@
             "price": "10000",
             "buyer": "Petrov P.P.",
             "date": "11.01.2018"
+        },
+        {
+            "item": "monitor",
+            "quantity": "5",
+            "price": "9000",
+            "buyer": "Sokolov",
+            "date": "10.11.2023"
+        },
+        {
+            "item": "monitor",
+            "quantity": "8",
+            "price": "15000",
+            "buyer": "Petrov",
+            "date": "10.04.2023"
         }
     ]
 }
